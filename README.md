@@ -3,7 +3,7 @@
 # Object Creation Outside Main Class
 
 ## Aim:
-  To write a Java program using inheritance and Properties one class can acquire the properties of others.
+  To write a Java program to create an object outside the main class.
   
 ## Algorithm
 
@@ -50,4 +50,4 @@ public class Solution {
 
 
 ## Result 
-  We have successfully created a Java program using inheritance one class can acquire the properties of others.
+  We have successfully created a Java program to create an object outside the main class.
