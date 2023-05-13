@@ -15,7 +15,7 @@ Step 3 : Create a main class,called the "Solution".
 
 Step 4 : Using Object creation call the method in "Employee" class.
 
-Step 5 : Display the statements from the first and secomd Class using Solution Class in the terminal.
+Step 5 : Display the statements from the first Class using Solution Class in the terminal.
 
 ## Program
 
